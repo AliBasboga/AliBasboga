@@ -7,30 +7,27 @@
 
 <!-- - 🔭 I’m currently working on **market_projesi** -->
 
-- 🌱 I’m currently learning **Java, Spring boot**
-
-- 📫 How to reach me **marufakan02@gmail.com**
 
 <!-- - 📄 Know about my experiences [Track My Work Time and Progress with WakaTime](https://github.com/maruf04/Developer) -->
 
-- 📄 Know about my experiences [marufakan.github.io](https://marufakan.github.io/Developer/)
+- 📄 Know about my experiences
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/marufakan/" target="blank">
+  <a href="" target="blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="maruf-akan-177a89170" width="40" height="30" align="center" />
   </a>
  
   <a href="" target="blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="" width="40" height="30" align="center" />
   </a>
-  <a href="https://www.youtube.com/channel/UCFD69YhoS_8jKfxb9QgzFDA" target="blank">
+  <a href="" target="blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="ucfd69yhos_8jkfxb9qgzfda" width="40" height="30" align="center" />
   </a>
-  <a href="https://www.hackerrank.com/Maruf_Akan" target="blank">
+  <a href="" target="blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="h185541045" width="40" height="30" align="center" />
   </a>
 
-  <a href="https://stackoverflow.com/users/14790392" target="blank">
+  <a href="" target="blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="14790392" width="40" height="30" align="center" />
   </a>
 </p>
