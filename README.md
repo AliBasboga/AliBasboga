@@ -5,15 +5,12 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maruf04&label=Profile%20views&color=0e75b6&style=flat" alt="marufakan" /> </p>
 
 
-<!-- - 🔭 I’m currently working on **market_projesi** -->
 
-
-<!-- - 📄 Know about my experiences [Track My Work Time and Progress with WakaTime](https://github.com/maruf04/Developer) -->
 
 - 📄 Know about my experiences
 
 <p align="left">
-  <a href="www.linkedin.com/in/ali-basboga-200856318" target="blank">
+  <a href="https://www.linkedin.com/in/ali-ba%C5%9Fbo%C4%9Fa-357856318/" target="blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="maruf-akan-177a89170" width="40" height="30" align="center" />
   </a>
  
