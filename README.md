@@ -13,7 +13,7 @@
 - 📄 Know about my experiences
 
 <p align="left">
-  <a href="" target="blank">
+  <a href="www.linkedin.com/in/ali-basboga-200856318" target="blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="maruf-akan-177a89170" width="40" height="30" align="center" />
   </a>
  
