@@ -120,4 +120,4 @@
 
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@24d66658-6119-4ac4-8f6a-4476ebfba1ff/3e254176-b02f-44d8-9466-b95395291167.png" width="550" /></a>
  -->
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AliBasboga&layout=compact)
