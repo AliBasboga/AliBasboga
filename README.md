@@ -35,8 +35,9 @@
 <p align="left"></p>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <a href="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="html5" width="40" height="40" />
+  
+  <a href="https://www.w3schools.com/kotlin/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png" alt="html5" width="40" height="40" />
   </a>
    
   <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer">
