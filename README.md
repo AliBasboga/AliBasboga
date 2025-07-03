@@ -71,7 +71,7 @@
 - HTML5, CSS, JavaScript
 
 🚀 Öne Çıkan Projeler:
-- [Bayrak Tahmin Oyunu](https://github.com/AliBasboga/...) – Website knowledge game made with JavaScript, HTML and CSS.
+- [Bayrak Tahmin Oyunu](https://github.com/AliBasboga/BBoga.github.io) – Website knowledge game made with JavaScript, HTML and CSS.
 - [QR Kod Üreteç](https://github.com/AliBasboga/...) –Web application that takes data from the user and generates QR codes.
 - [Hava Durumu Web Uygulaması](https://github.com/AliBasboga/...) – JS & API ile güncel veri gösterimi.
 
