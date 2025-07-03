@@ -61,41 +61,19 @@
   </a>
 
 
-  
- <!-- <a href="https://spring.io/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40" />
-  </a>
-  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40" />
-  </a> -->
-</p>
-
-<!--
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=marufakan&show_icons=true&locale=en&layout=compact" /></p>
-<!-- Wakatime -->
-<!--
-<h3 align="left">Wakatime(<span>since July 2021</span>):</h3>
-<p align="center">
-  <img src="https://wakatime.com/share/@24d66658-6119-4ac4-8f6a-4476ebfba1ff/04d84d59-c43d-4092-8198-9db22e559eb7.png" width="400" />
-  <img width="400" src="https://wakatime.com/share/@24d66658-6119-4ac4-8f6a-4476ebfba1ff/639e4d71-0aea-47ef-9c04-1127ff0ac234.png" />
-</p>
-
-
-
-<!--
-<p align="center">
-    <img width="400" src="" />
-    <img width="400" src="https://wakatime.com/share/@24d66658-6119-4ac4-8f6a-4476ebfba1ff/696d6fe1-7655-435f-81e9-00b8b761267c.png" />
-</p>
-
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=maruf04&show_icons=true&locale=en&layout=compact" alt="maruf04" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maruf04&show_icons=true&locale=en" alt="maruf04" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maruf04&" alt="maruf04" /></p>
-
-
-
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@24d66658-6119-4ac4-8f6a-4476ebfba1ff/3e254176-b02f-44d8-9466-b95395291167.png" width="550" /></a>
- -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AliBasboga&layout=compact)
+
+💻  Technologies I Use:
+- Kotlin & Android Studio
+- Jetpack, XML
+- Git & GitHub
+- Firebase, SQlite
+- HTML5, CSS, JavaScript
+
+🚀 Öne Çıkan Projeler:
+- [Bayrak Tahmin Oyunu](https://github.com/AliBasboga/...) – Website knowledge game made with JavaScript, HTML and CSS.
+- [QR Kod Üreteç](https://github.com/AliBasboga/...) –Web application that takes data from the user and generates QR codes.
+- [Hava Durumu Web Uygulaması](https://github.com/AliBasboga/...) – JS & API ile güncel veri gösterimi.
+
+📫If you want to reach me:
+`alibasboga885@gmail.com`
