@@ -61,7 +61,7 @@
   </a>
 
 
-<!--[Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=AliBasboga)*-->
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=AliBasboga&layout=compact&langs_count=4&hide_values=true)](https://github-stats-extended.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=4&hide_values=true)
 
 💻  Technologies I Use:
 - Kotlin & Android Studio
