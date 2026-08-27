@@ -61,7 +61,7 @@
   </a>
 
 
-![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=AliBasboga)
+<!--[Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=AliBasboga)*-->
 
 💻  Technologies I Use:
 - Kotlin & Android Studio
