@@ -61,7 +61,7 @@
   </a>
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AliBasboga&layout=compact)
+![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=AliBasboga)
 
 💻  Technologies I Use:
 - Kotlin & Android Studio
